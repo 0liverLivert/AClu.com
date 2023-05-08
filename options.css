@@ -1,0 +1,105 @@
+teable{
+    width:1000px;
+}
+.teable-size {
+    width: 1500px;
+    height: 100%;
+}
+header {
+    background-image: url(https://media.istockphoto.com/id/889151774/vector/low-poly-background-red-color.jpg?b=1&s=612x612&w=0&k=20&c=YYsBkyrsbHyVusqQv7lfLAa8JhrufZny6mjTi1v0GUE=);
+}
+button {
+    height: 50px;
+    width: 200px;
+    margin-top: 250px;
+    margin-left: 0px
+}
+.f {
+    background-image: url(https://mf.b37mrtl.ru/russian/images/2017.04/article/58fe599bc3618843468b47c1.jpg);
+    background-size: cover;
+}
+.color{
+    color:white;
+}.button:hover{
+     cursor:pointer;
+ }
+.k {
+    background-image: url(https://www.thumbnail2.cloud/content/upload/images/anime/horizontal/kemono_jihen/kemono_jihen_full_image_9ead7d43-3974-454b-90df-b1d8fdaffe6f.jpg);
+    background-size: cover;
+}
+.on {
+    background-image: url(https://img2.wtftime.ru/store/2019/08/20/k0k55y3S.jpg.webp);
+    background-size: cover;
+}
+.bl {
+    background-image: url(https://www.gamespot.com/a/uploads/screen_kubrick/1582/15828986/4049044-00.jpg);
+    background-size: cover;
+}
+.b {
+    background-image: url(https://as01.epimg.net/meristation/imagenes/2021/08/24/noticias/1629798226_254136_1629798326_noticia_normal.jpg);
+    background-size: cover;
+}
+.o {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyojmFeYiWbVxcUYJLauElY_RhHYl1y5GlgQ&usqp=CAU);
+    background-size: cover;
+}
+.sg {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc-iTydb868k1Zw_2r2uHO6fkdV9y-KiXLjjn0IQFxawUGwx5VPi5WDj_QjzgHvHNjPp4&usqp=CAU);
+    background-size: cover;
+}
+.do {
+    background-image: url(https://avatars.mds.yandex.net/get-ott/223007/2a00000181b1f9c4c3cb1bf6c475f89c4cc6/678x380);
+    background-size: cover;
+}
+.dr {
+    background-image: url(https://avatars.mds.yandex.net/i?id=9f19860a654bbfa0d179ef318ae2cb54-4571710-images-thumbs&n=13);
+    background-size: cover;
+}
+.m {
+    background-image: url(https://u.kanobu.ru/editor/images/30/f8f39fcb-54c3-40eb-bef7-5d4247d1f030.png);
+    background-size: cover;
+}
+.s {
+    background-image: url(https://data-vyhoda.ru/wp-content/uploads/2019/05/sem-smertnyh-grehov-3-sezon_data_vyhoda.jpg);
+    background-size: cover;
+} 
+
+video {
+    margin-left: 250px;
+    height:500px;
+    width:1000px;
+}
+.img {
+    width:374px;
+    height:530px;
+}
+@media screen and (max-width:660px) {
+    .teable-size {
+        width: 300px;
+        height: 100%;
+    }
+    video{
+        width:340px;
+        height:200px;
+        margin-left:10px;
+    }
+    .img {
+        width: 340px;
+        height: 530px;
+    }
+    .option{
+        float:left;
+        margin-right:100px;
+    }
+    .button {
+        margin-top:0px;
+        height: 20px;
+        width: 100px;
+    }
+}
+
+
+
+
+
+
